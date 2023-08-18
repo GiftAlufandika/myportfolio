@@ -1,33 +1,38 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Network Administrator",
+            "subtitle": "Malamulo College of Health Sciences",
+            "workType": " Internship",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Installed network in **2** sites.",
+                "Assisted in student portal integration.",
+                "Access points installation",
+                "Network Monitoring",
+                "Firewall configuration"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "12/2022 – 04/2023"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Data Entry",
+            "subtitle": "Malawi National Examination Board(MANEB)",
+            "workType": "Temporary",
             "workDescription": [
-                "Worked on abc."
+                "Data Keyinf.",
+                "Data verification and Reporting",
+                "Data protection"
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "01/2022 - 03/2022"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Course Instructor",
+            "subtitle": "Department of physics - University of Malawi, Zomba",
+            "workType": "Temporary",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Tought Database adminstration & Web app development."
+                
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "06/2022 – 12/2023"
         }
     ]
 }
