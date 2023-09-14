@@ -19,7 +19,8 @@
             "component": "Experience",
             "path": "/experience",
             "headerTitle": "Experience"
-        },
+        }
+        ,
         {
             "component": "Projects",
             "path": "/projects",
